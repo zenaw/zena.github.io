@@ -1,0 +1,191 @@
+.conterleft3{
+    width: 70%;
+    float: left;
+    height: 1600px;
+    background-color: rgb(245, 245, 245);
+    
+    
+}
+.conterright3{
+    width: 30%;
+    float: right;
+    height: 1600px;
+    background-color: white;
+    
+}
+.tieude{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.quatrinh>.noidung{
+    line-height: 20px;
+    padding: 0 10px;
+}
+.quatrinh>.noidung>p{
+    font-size: 18px;
+    text-align: justify;
+}
+.noidungtochu{
+    margin: 20px 20px;
+}
+
+.bangh{
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.anh>img{
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 80px;
+}
+
+.tennd{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+    
+}
+.lich{
+    height: 800px;
+    width: 90%;
+    border: 1px solid #ccc;
+    margin: 10px auto;
+}
+.tenlich{
+    height: 50px;
+    background-color: #2a8cb3;
+    line-height: 50px;
+    
+}
+.lich>.tenlich>ul{
+    list-style: none;
+    
+    
+
+}
+.lich>.tenlich>ul>li{
+    float: left;
+    margin-right: 115px;
+}
+
+.lichthutu>ul{
+    list-style: none;
+}
+.lichthutu>ul>li{
+    float: left;
+    margin-top: 20px;
+    margin-right: 115px;
+}
+.tenhd{
+    margin: 10px 5px;
+}
+.tenhd>a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.anhhd{
+    height: 120px;
+    
+}
+.anhhd>img{
+    width: 200px;
+    float: left;
+    padding-right: 10px;
+}
+.hoatdong{
+    margin: 10px 0;
+}
+
+.tenhd>a:hover{
+    text-decoration: underline;
+    color: rgb(30, 135, 255);
+  
+}
+.timkiemhs{
+    margin: 50px 0;
+    height: 50px;
+    background-color: #2a8cb3;
+    
+    
+}
+.texths{
+    margin: 10px 20px;
+    height: 25px;
+    width: 250px;
+}
+.butomhs{
+    height: 25px;
+    width: 100px;
+}
+.tablehs{
+    height: 1000px;
+    border: 1px solid #ccc;
+    margin-top: 50px;
+
+}
+
+.ttdiachi{
+    height: 500px;
+    border: 1px solid #ccc;
+    width: 600px;
+    background-color: white;
+}
+.ttlienhe2{
+    padding-left: 20px;
+}
+.ttlienhe{
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+}
+.ttlienhe21{
+    line-height: 40px;
+}
+
+.boxhoi{
+    margin: 20px auto;
+    width: 900px;
+    height: 650px;
+    border: 0.5px solid #ccc;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.tieudehoi{
+    text-align: center;
+    height: 40px;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.thongtinhd{
+    margin: 30px 20px;
+    font-weight: bold;
+}
+
+.texthoi{
+    width: 300px;
+    height: 20px;
+    margin-right: 800px;
+   
+}
+.thongtinnd{
+    margin: 0 20px;
+    
+}
+.texthoi1{
+    width: 750px;
+    height: 200px;
+    margin: 0 10px;
+}
+.butomhoi{
+    width: 100px;
+    height: 25px;
+    
+}
